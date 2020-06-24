@@ -1,3 +1,7 @@
-# hello-world
-creating a new repository
-welcome to new world
+class Hello
+{
+public static void main(string[] ar)
+{
+System.out.println("hello world");
+}
+}
